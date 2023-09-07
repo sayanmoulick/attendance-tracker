@@ -11,8 +11,20 @@
   "author": "Sayan",
   "license": "ISC",
   "dependencies": {
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@mui/icons-material": "^5.14.7",
+    "@mui/material": "^5.14.7",
+    "@mui/x-date-pickers": "^6.12.1",
+    "@reduxjs/toolkit": "^1.9.5",
+    "css-loader": "^6.8.1",
+    "dayjs": "^1.11.9",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.2",
+    "sass": "^1.66.1",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.22.11",
